@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<and_401.customtextview.MyTextView
+    android:id="@+id/MyTextView1"
+    android:text="@string/app_name"
+    android:textSize="22dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:scrollbars="vertical" android:layout_width="match_parent"
+    android:textColor="@color/colorAccent"
+    android:layout_height="match_parent">
+</and_401.customtextview.MyTextView>
